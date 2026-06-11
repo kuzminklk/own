@@ -1,3 +1,6 @@
 [submodule "web/personal-website"]
 	path = web/personal-website
 	url = https://github.com/kuzminklk/personal-website
+[submodule "web/lighter-designboard"]
+	path = web/lighter-designboard
+	url = git@github.com:kuzminklk/lighter-designboard.git
