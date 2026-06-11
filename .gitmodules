@@ -4,3 +4,6 @@
 [submodule "web/lighter-designboard"]
 	path = web/lighter-designboard
 	url = git@github.com:kuzminklk/lighter-designboard.git
+[submodule "web/monad-superboard"]
+	path = web/monad-superboard
+	url = git@github.com:kuzminklk/monad-superboard.git
